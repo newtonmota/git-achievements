@@ -1,25 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
-<title>Alexei Znamensky's Git Achievements</title>
+<title>Tales Pinheiro de Andrade's Git Achievements</title>
 <description></description>
 <link></link>
-<item><title>Socialite (Level 5)</title><description>pushed a branch to a remote repository using git push</description></item>
-<item><title>Author (Level 6)</title><description>Made 2^Level commits using git commit.</description></item>
-<item><title>Apprentice Butcher (Level 3)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
-<item><title>Apprentice Butcher (Level 2)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
-<item><title>Apprentice Butcher (Level 1)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
-<item><title>Stone Mason (Level 6)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
-<item><title>Historian (Level 4)</title><description>Investigate the commit log using git log.</description></item>
-<item><title>Socialite (Level 4)</title><description>pushed a branch to a remote repository using git push</description></item>
-<item><title>Author (Level 5)</title><description>Made 2^Level commits using git commit.</description></item>
-<item><title>Stone Mason (Level 5)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
-<item><title>Apprentice Cleaning lady (Level 1)</title><description>Remove untracked files from the working tree with git clean</description></item>
-<item><title>Apprentice Socialite (Level 3)</title><description>pushed a branch to a remote repository using git push</description></item>
-<item><title>Stone Mason (Level 4)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
-<item><title>Archivist (Level 4)</title><description>Prepare each commit with its patch in one file per commit with git format-patch</description></item>
-<item><title>Apprentice Gipsy (Level 1)</title><description>Create, list, delete a tag signed with GPG using git tag</description></item>
-<item><title>Apprentice Chimney Sweeper (Level 1)</title><description>Used git gc to run a number of housekeeping tasks on the current repository.</description></item>
 <item><title>Student</title><description>Accessed the documentation for a command with git [command] --help</description></item>
-<item><title>Apprentice Author (Level 3)</title><description>Made 2^Level commits using git commit.</description></item>
-<item><title>Apprentice Socialite (Level 2)</title><description>pushed a branch to a remote repository using git push</description></item>
-<item><title>Caretaker</title><description>Added a .gitignore file to a repository.</description></item>
 </channel></rss>
